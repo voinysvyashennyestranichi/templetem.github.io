@@ -1,0 +1,25 @@
+ body {
+	   background-attachment: fixed;
+	   width:contain;
+	   height:contain;
+	   padding:0px;
+	   background-color:#ffffff;
+	   background-image:url(https://s1.1zoom.ru/big0/269/358337-admin.jpg);
+	   background-repeat:contain;
+	   background-attachment:contain;
+	   background-position:40px 40px;
+	   margin: 0;}
+	   
+h1{ 
+		height: aupx; 
+		border-radius: 0px 0px 19px 19px;
+		background: #ffb60f;
+		background: radial-gradient(circle at 80px 40px, #f9eec7, #ffb60f, #ffb60f);
+		width: contain;
+		margin: 0px; /* Нулевые отступы вокруг текста */ 
+		padding: 10px; /* Поля вокруг текста */ 
+		text-align:center;
+		color:#ff9900;
+		text-shadow: #5dc8e5 0 0 10px; /* Свечение голубого цвета */
+		color: #0083bd;
+		box-shadow: -1px 5px 100px 28px #000000;}
